@@ -1,0 +1,35 @@
+{
+  "name": "Irish Dalmasi",
+  "role": "Student | Future Networking",
+  "intro": "Welcome to my personal portfolio website!",
+  "about": "I am a student who is passionate about technology, programming, and web design. I enjoy learning new skills, solving problems, and creating websites. My goal is to become a successful IT professional.",
+  "image": "images/profile.jpg",
+  "skills": [
+    {
+      "name": "HTML",
+      "description": "Building webpage structures"
+    },
+    {
+      "name": "CSS",
+      "description": "Styling and designing websites"
+    },
+    {
+      "name": "JavaScript",
+      "description": "Adding interactive features"
+    },
+    {
+      "name": "Java",
+      "description": "Learning object-oriented programming"
+    }
+  ],
+  "education": [
+    {
+      "school": "Nueva Vizcaya State University",
+      "course": "Bachelor of Science in Information Technology Major In Networking",
+      "status": "Currently Studying"
+    }
+  ],
+  "email": "dalmasiirish@gmail.com",
+  "github": "https://github.com/yourusername",
+  "contactMessage": "Feel free to contact me!"
+}
